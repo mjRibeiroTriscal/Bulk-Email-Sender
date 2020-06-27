@@ -1,11 +1,11 @@
 # --------------------------------------------------------------------------------------
 #
 # @Name         : Bulk Email Sender (Python)
-# @Author       : Mario Oliveira (mariojgmaster@yahoo.com)
+# @Author       : Mario Oliveira (mariojgmaster@yahoo.com.br)
 # @Description  : This script sends bulk emails using only one excel email list.
 # @Version      : 1.0.4
 # @Repository   : https://github.com/mjRibeiroTriscal/Bulk-Email-Sender
-# @keywords     : digital marketing, bulk email sender, python, smtp
+# @keywords     : digital marketing, bulk email sender, Email Marketing, python, smtp
 #
 # --------------------------------------------------------------------------------------
 
